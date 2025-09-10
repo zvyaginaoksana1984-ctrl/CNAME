@@ -1,0 +1,2 @@
+# CNAME
+yogatataz.ru
